@@ -1,0 +1,24 @@
+{
+  "name": "weather-admin",
+  "version": "1.0.0",
+  "description": "A command line interface application using Node.js",
+  "main": "CLI.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/osman144/Weather-Admin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/osman144/Weather-Admin/issues"
+  },
+  "homepage": "https://github.com/osman144/Weather-Admin#readme",
+  "dependencies": {
+    "file-system": "^2.2.2",
+    "moment": "^2.22.1",
+    "weather-js": "^2.0.0"
+  }
+}
